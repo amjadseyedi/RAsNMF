@@ -3,7 +3,7 @@ close all
 clc
 [parentdir,~,~] = fileparts(pwd);
 %% choose the data and corresponding parameters
-% cornell texas wisconsin washington lfr1 lfr2 lfr3
+% cornell texas wisconsin washington
 load texas
 n = size(A,1);
 %% Parameters
