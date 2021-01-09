@@ -4,9 +4,9 @@
   
   *Reyhaneh Abdollahi, Seyed Amjad Seyedi, and Mohamad Reza Noorimehr *
   
-  *10th International Conference on Computer and Knowledge Engineering (ICCKE2020)*
+  *10th International Conference on Computer and Knowledge Engineering (ICCKE2020), 323-328*
   
-  *https://iccke2020.um.ac.ir*
+  *https://doi.org/10.1109/ICCKE50421.2020.9303649*
 
 <p align=center><img src="diag.svg" width="70%" height="70%"></p>
 
