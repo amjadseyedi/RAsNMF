@@ -2,7 +2,7 @@
 
   ## Asymmetric Semi-Nonnegative Matrix Factorization for Directed Graph Clustering
   
-  *Reyhaneh Abdollahi, Seyed Amjad Seyedi, and Mohamad Reza Noorimehr *
+  Reyhaneh Abdollahi, Seyed Amjad Seyedi, and Mohamad Reza Noorimehr
   
   *10th International Conference on Computer and Knowledge Engineering (ICCKE2020), 323-328*
   
